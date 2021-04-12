@@ -1,0 +1,3 @@
+/Users/alejandro/CLionProjects/compile/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alejandro/CLionProjects/compile/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alejandro/CLionProjects/compile/cmake-build-debug/CMakeFiles/compile.dir
